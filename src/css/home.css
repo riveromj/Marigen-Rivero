@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
+
+.hello{
+    width: 100%;
+    height: 32rem;
+    background-color: rgb(31, 30, 30);
+    color: white;
+    padding: 1rem;
+    font-family: 'Ubuntu', sans-serif;
+   
+   
+}
+.hello p{
+    font-size: 4rem;
+    margin-left: 1rem;
+    margin-top:  9%;
+}
+.like{
+    font-weight:0px;
+}
+.name{
+    font-weight: bold;
+    font-size: 4rem;
+    
+}
+.my-name{
+    font-size: 2.5rem;
+    margin-left: 4.5rem;
+}
+.text{
+    color: rgb(167, 17, 167);
+    font-style: italic;
+    font-weight:500;
+}
+
+@media (max-width:576px) {
+    .hello{
+        width: 100%;
+        height: 24rem;
+        background-color: rgb(31, 30, 30);
+        color: white;
+        padding: 1rem;
+        font-family: 'Ubuntu', sans-serif;
+        
+    }
+    .hello p{
+        font-size: 2.2rem;
+        margin-left: 1rem;
+        margin-top:  20%;
+    }
+    .name{
+        font-weight: 500;
+        font-size: 2.2rem;
+    }
+    .my-name{
+        font-size: 1.8rem;
+        margin-left: 2rem;
+    }
+    .text{
+        color: rgb(167, 17, 167);
+        font-style: italic;
+        font-weight:500;
+        font-size: 2rem;
+    }
+    .d{
+        position: relative;
+    }
+}

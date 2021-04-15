@@ -1,0 +1,14 @@
+.menu{   
+    background-color: rgb(167, 17, 167);
+
+}
+.navbar-toggler{
+    font-size: .8rem;
+    padding-left: 1rem;
+}
+.navbar{
+    padding-left: 1rem;
+}
+.navbar-nav{
+    padding-right: 1rem;
+}
