@@ -1,0 +1,26 @@
+.contacto{
+    margin:auto;
+    width: 100%;
+    
+}
+.send{
+    text-align: center;
+    
+}
+.btn-send{
+    background-color:rgb(167, 17, 167) ;
+    color: white;
+    margin: auto;
+    width: 7rem;
+    
+}
+.text-work{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+   
+}
+
+.input-text{
+    margin: 2rem 6rem;
+}

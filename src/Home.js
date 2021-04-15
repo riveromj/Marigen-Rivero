@@ -3,9 +3,12 @@ import React, {useEffect} from 'react';
 import Typed from 'typed.js';
 
 import '../src/css/home.css';
-import About from './About';
 
+import About from './About';
+import { Contact } from './Contact';
 import Navbar from './Navbar';
+import { Projects } from './Projects';
+import { Tech } from './Tech';
 
 export const Home = () => {
 
@@ -44,7 +47,9 @@ export const Home = () => {
                     </div>
                 </div>
                 <About/>
-                
+                <Tech/>
+                <Projects/>
+                <Contact/>
             
             </div>
         </div>
