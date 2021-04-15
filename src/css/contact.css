@@ -24,3 +24,10 @@
 .input-text{
     margin: 2rem 6rem;
 }
+
+
+@media (max-width:576px) {
+    .input-text{
+        margin: 1rem 3rem;
+    }
+}
