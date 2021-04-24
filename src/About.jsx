@@ -19,9 +19,9 @@ const About = () => {
             <div className="about col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
                 
                 <h2 className="title">About Me!</h2>
-                <p className="text1">I graduated from the Andres Bello Catholic University of Caracas-Venezuela. I am a computer engineer. I am constantly learning, I like challenges. I like to work in a team and share ideas and knowledge.I am committed and innovative.</p>
-                <p className="text1">The power of imagination is infinite and unlimited, when we imagine we generate ideas, we create and find solutions. It is a unique experience. When we achieve something that seemed impossible.</p>
-                <p className="text1">My passion for technology is enjoying the creation of each project, meeting and working with great people. New experiences excite me and I feel happy when I achieve my goals.</p>
+                <p className="text1">I have a degree in software engineering. Since I started my career my goal always has been keeping my skills and knowledge up to date, while I enjoy working with people sharing ideas and knowledge, in order to understand their needs, and being able to satisfied their expectations.</p>
+                <p className="text1">I am committed and innovative person. So, new opportunities exited me, I enjoy the creative process, using my unlimited imagination, generating infinitive ideas looking for alternative solutions. It is a unique experience when I achieve to the best way something that seemed impossible.</p>
+                <p className="text1">My passion for technology is how it simplify life in everyday tasks, so my goal as a professional is optimising processes and procedures for whoever I worked for.</p>
                 <div className="cv">
                    <a href='https://drive.google.com/file/d/1CC4NUTMG8D2wEbfKIFWKCnBJ8OzKQzA2/view?usp=sharing'  target="_blank"><button type="button" className="btn btn-cv">Download CV</button></a> 
                 </div>
