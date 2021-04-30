@@ -66,3 +66,11 @@
         position: relative;
     }
 }
+
+@media (min-width:1200px) {
+   
+    .hello p{
+        margin-top: 5%;
+    }
+
+}
