@@ -21,6 +21,10 @@
     border-radius: 10px;
     
 }
+.card-text-p{
+    padding: 0.5rem;
+    font-size: 0.75rem;
+}
 .card-body-p{
     margin: 0.5rem;
 }
