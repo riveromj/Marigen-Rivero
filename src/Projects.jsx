@@ -15,7 +15,7 @@ export const Projects = () => {
                     <div className="col-lg-4">
                         <div className="card-p">
                         <a href="https://foodie-app-frontend-hfjkaebju-riveromj.vercel.app/" target="_blank">
-                            <img src="https://res.cloudinary.com/dp1f6cr63/image/upload/v1618389713/Imagen_presentaci%C3%B3n_acpgla.jpg" className="card-img-project" alt="foodie"/>
+                            <img src="https://res.cloudinary.com/dp1f6cr63/image/upload/v1619798245/01_portada_xckrx1.jpg" className="card-img-project" alt="foodie"/>
                         </a>
                         <div className="card-body-p">
                             <h5 className="card-title">The Foodie Club</h5>
@@ -28,7 +28,7 @@ export const Projects = () => {
                     <div className="col-lg-4">
                         <div className="card-p">
                             <a href="https://riveromj.github.io/Random_Card/" target="_blank">
-                                <img src="https://res.cloudinary.com/dp1f6cr63/image/upload/v1618389692/random_card_2_els2at.png" className="card-img-project" alt="random-card"/>
+                                <img src="https://res.cloudinary.com/dp1f6cr63/image/upload/v1619797725/random_card_nehg5o.png" className="card-img-project" alt="random-card"/>
                             </a>
                             <div className="card-body-p">
                                 <h5 className="card-title">Random Card</h5>
@@ -41,7 +41,7 @@ export const Projects = () => {
                     <div className="col-lg-4">
                         <div className="card-p">
                             <a href="https://riveromj.github.io/Traffic/" target="_blank">
-                                <img src="https://res.cloudinary.com/dp1f6cr63/image/upload/v1618396393/traffic_2_h3gmnv.png" className="card-img-project" alt="traffic"/>
+                                <img src="https://res.cloudinary.com/dp1f6cr63/image/upload/v1619798116/traffic_moamco.png" className="card-img-project" alt="traffic"/>
                             </a>
                             <div className="card-body-p">
                                 <h5 className="card-title">Traffic Light</h5>
