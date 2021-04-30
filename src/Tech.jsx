@@ -13,17 +13,21 @@ export const Tech = () => {
 				<div className="row first-line d-flex justify-content-sm-center justify" id="tecno">
 
                     <div className="tecno col-12 col-12-l col-md-10 col-sm-10">
-                        <i className="fab fa-react tech"></i>
-                        <i className="fab fa-js tech"></i>
-                        <i className="fab fa-python tech"></i>
+                        <i className="fab fa-react tech "><span className="subtitle">React</span></i>
+                        <i className="fab fa-js tech"><span className="subtitle">JavaScript</span></i>
+                        <i className="fab fa-python tech"><span className="subtitle">Python</span></i>
+                        <i className="fab fa-angular tech"><span className="subtitle">Angular</span></i>
+                        
+                        
                    
-                        <i className="fab fa-html5 tech"></i>
-                        <i className="fab fa-css3-alt tech"></i>
-                        <i className="fab fa-bootstrap tech"></i>
+                        <i className="fab fa-html5 tech"><span className="subtitle">HTML5</span></i>
+                        <i className="fab fa-css3-alt tech"><span className="subtitle">CSS3</span></i>
+                        <i className="fab fa-bootstrap tech"><span className="subtitle">Bootstrap</span></i>
                    
-                        <i className="fab fa-github-square tech"></i>
-                        <i className="fab fa-trello tech"></i>
-                        <i className="fab fa-figma tech"></i>
+                        <i className="fab fa-github-square tech"><span className="subtitle">Github</span></i>
+                        <i className="fab fa-trello tech"><span className="subtitle">Trello</span></i>
+                        <i className="fab fa-figma tech"><span className="subtitle">Figma</span></i>
+                        
                     </div>
                    
                 </div>

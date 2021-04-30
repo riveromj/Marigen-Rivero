@@ -5,13 +5,28 @@
 }
 .tecnologies{
     font-size: 4rem;
-    background-color: rgb(31, 30, 30);
+    background-color: rgb(46, 46, 45);
     padding: 2rem;
     margin: auto;
+}
+.subtitle{
+    display: block;
+    font-size: 0.9rem;
+    margin-top: 0.3rem;
+    color: white;
+}
+.sub{
+    vertical-align:sub;
+    color: white;
+    font-size: 0.9rem;
+    margin-top: 0.3rem;
 }
 
 .tecno{
     text-align: center;
+}
+img{
+    vertical-align:unset;
 }
 @media (max-width:576px) {
     .tecnologies{
