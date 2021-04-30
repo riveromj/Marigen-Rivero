@@ -1,6 +1,8 @@
 .contacto{
     margin:auto;
     width: 100%;
+    background-color: rgb(46, 46, 45);
+    padding: 3rem;
     
 }
 .send{
@@ -18,6 +20,7 @@
     text-align: center;
     font-size: 1.5rem;
     font-weight: 500;
+    color: white;
    
 }
 
@@ -27,6 +30,9 @@
 
 
 @media (max-width:576px) {
+    .contacto{
+        padding: 1rem;
+    }
     .input-text{
         margin: 1rem 3rem;
     }

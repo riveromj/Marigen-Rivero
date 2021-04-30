@@ -30,7 +30,7 @@ export const Contact = () => {
                         </div>
                     </div>
                     <div className="col-md-12">
-                        <textarea type="text" rows="10" cols="40" className="form-control msn" id="validationCustom03" placeholder="Message" required/>
+                        <textarea type="text" rows="5" cols="40" className="form-control msn" id="validationCustom03" placeholder="Message" required/>
                         <div className="invalid-feedback">
                         Please provide a valid message.
                         </div>

@@ -6,6 +6,7 @@ import '../src/css/home.css';
 
 import About from './About';
 import { Contact } from './Contact';
+import Footer from './Footer';
 import Navbar from './Navbar';
 import { Projects } from './Projects';
 import { Tech } from './Tech';
@@ -50,6 +51,7 @@ export const Home = () => {
                 <Tech/>
                 <Projects/>
                 <Contact/>
+                <Footer/>
             
             </div>
         </div>

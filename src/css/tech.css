@@ -6,7 +6,8 @@
 .tecnologies{
     font-size: 4rem;
     background-color: rgb(46, 46, 45);
-    padding: 2rem;
+    padding: 4rem;
+    padding-bottom: 6rem;
     margin: auto;
 }
 .subtitle{
@@ -31,6 +32,7 @@ img{
 @media (max-width:576px) {
     .tecnologies{
         font-size: 2rem;
+        padding: 1rem;
     }
    
 }
