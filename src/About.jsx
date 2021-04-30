@@ -12,7 +12,7 @@ const About = () => {
                     <div className="icons">
                         <a href="https://www.linkedin.com/in/riveromj/"><i className="fab fa-linkedin-in"/></a>
                         <a href="https://github.com/riveromj"><i className="fab fa-github"/></a>
-                        <a><i className="far fa-envelope"/></a>
+                        <a href="#contact"><i className="far fa-envelope"/></a>
                 </div>
                 </div>
             </div>
