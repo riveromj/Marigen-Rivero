@@ -6,12 +6,12 @@
    
 }
 .item{
-    color:rgb(46, 46, 45);
+    color:rgb(167, 17, 167);
     padding: 1rem;
     text-decoration: none;
     font-weight: 500;
     justify-content:left;
-    font-size: 0.8rem;
+    font-size: 1rem;
     
 }
 .item:hover{
@@ -21,6 +21,6 @@
 
 @media (max-width:576px) {
     .item{
-        font-size: 0.68rem;
+        font-size: 0.88rem;
     }
 }
