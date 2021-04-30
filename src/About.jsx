@@ -19,9 +19,9 @@ const About = () => {
             <div className="about col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
                 
                 <h2 className="title">About Me!</h2>
-                <p className="text1">I have a degree in software engineering. Since I started my career my goal always has been keeping my skills and knowledge up to date, while I enjoy working with people sharing ideas and knowledge, in order to understand their needs, and being able to satisfied their expectations.</p>
-                <p className="text1">I am committed and innovative person. So, new opportunities exited me, I enjoy the creative process, using my unlimited imagination, generating infinitive ideas looking for alternative solutions. It is a unique experience when I achieve to the best way something that seemed impossible.</p>
-                <p className="text1">My passion for technology is how it simplify life in everyday tasks, so my goal as a professional is optimising processes and procedures for whoever I worked for.</p>
+                <p className="text1">I have a degree in software engineering. Since I started my career, my goal has always been to keep my skills and knowledge up to date while I enjoy working with people, sharing ideas and knowledge in order to understand their needs and be able to meet their expectations.</p>
+                <p className="text1">I am a committed and innovative person. New opportunities excite me, I enjoy the creative process and using my unlimited imagination to generate infinite ideas when looking for alternative solutions. It is a unique experience when I come up with the best way to do something that seemed impossible.</p>
+                <p className="text1">My passion for technology is how to simplify life in everyday tasks. That is why my goal as a professional is to optimise processes and procedures for whoever I work for.</p>
                 <div className="cv">
                    <a href='https://drive.google.com/file/d/1CC4NUTMG8D2wEbfKIFWKCnBJ8OzKQzA2/view?usp=sharing'  target="_blank"><button type="button" className="btn btn-cv">Download CV</button></a> 
                 </div>
